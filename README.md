@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Game demo](https://github.com/raj2611/galaxyGame/blob/master/sec.gif)
+![Game demo](https://github.com/SlavoljubAtanasovski/flutter-galaxy-game/sec.gif)
 
 ## Getting Started
 
